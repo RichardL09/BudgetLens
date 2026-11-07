@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BudgetLens</string>
+    <string name="brand_tagline">KELOLA KEUANGANMU LEBIH CERDAS</string>
+    <string name="intro_transactions">Catat Setiap Transaksi</string>
+    <string name="intro_transactions_body">Lacak pemasukan &amp; pengeluaran kamu secara otomatis. Selalu tahu ke mana uangmu pergi.</string>
+    <string name="intro_budget">Atur Budget Pribadimu</string>
+    <string name="intro_budget_body">Tetapkan batas pengeluaran per kategori dan dapatkan notifikasi sebelum budget habis.</string>
+    <string name="intro_split">Split Bill Anti-Ribet</string>
+    <string name="intro_split_body">Bayar bareng teman jadi mudah. Hitung bagian masing-masing otomatis &amp; lacak siapa yang belum bayar.</string>
+    <string name="intro_scan">Scan Struk Instan</string>
+    <string name="intro_scan_body">Foto struk belanjamu dan biarkan BudgetLens mencatat semua detail transaksi secara otomatis.</string>
+    <string name="intro_page_position">Halaman %1$d dari %2$d</string>
+    <string name="skip">Lewati</string>
+    <string name="next">Lanjut →</string>
+    <string name="get_started">Mulai Sekarang</string>
+    <string name="already_have_account">Sudah punya akun? Masuk</string>
+    <string name="back">‹ Kembali</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="login_subtitle">Masuk untuk melanjutkan perjalanan finansialmu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="show_password">Lihat</string>
+    <string name="hide_password">Sembunyikan</string>
+    <string name="login">Masuk ke BudgetLens</string>
+</resources>
+
